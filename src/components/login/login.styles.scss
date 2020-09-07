@@ -1,0 +1,17 @@
+
+.loginWrapper {
+
+    background-color: #1B1464;
+
+    .loginCard {
+        width: 360px;
+        margin: 120px auto;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.12), 0px 1px 3px rgba(0, 0, 0, 0.2);
+
+        .loginCardContent > * {
+
+            margin: 8px 16px;
+
+        }
+    }
+}
